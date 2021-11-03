@@ -25,6 +25,7 @@ body {
 }
 
 .login-info-container {
+  /**/margin-top: 20px;
     width: 50%;
     display: flex;
     flex-direction: column;
