@@ -1,3 +1,9 @@
+:root {
+  --pink: #fbc2eb;
+  --purple: #a18cd1;
+  --gray: #adadad;
+  --white: #fff;
+}
 * {
   margin: 0;
   padding: 0;
