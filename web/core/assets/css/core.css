@@ -21,4 +21,5 @@ body {
   top: 50%;
   left: 50%;
   background: var(--white);
+  border-radius: 15px;
 }
